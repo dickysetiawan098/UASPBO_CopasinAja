@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455016303275",
+    "project_id": "pemrogramanberbasisobjek",
+    "storage_bucket": "pemrogramanberbasisobjek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455016303275:android:dd20077e5d9e08cc9945ee",
+        "android_client_info": {
+          "package_name": "com.unsia.pemrogramanberbasisobjek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bbTBHWZVyI6h7dZlmGBpOY1oUSpF_GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
